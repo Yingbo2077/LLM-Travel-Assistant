@@ -4,12 +4,18 @@ __pycache__/
 
 # Virtual Environment
 venv/
+.venv/
 
 # Environment variables
 .env
+.env.*
+!.env.example
 
 # IDE
 .vscode/
 
 # Database
 *.db
+
+# Chroma Vector Database
+/chroma_db/

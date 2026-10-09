@@ -1,4 +1,4 @@
-from embedding import create_embedding
+from backend.embedding import create_embedding
 from rag import load_documents, split_documents
 
 import chromadb

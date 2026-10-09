@@ -28,8 +28,8 @@ def ask_llm(user_query):
     # 2. 拼接知识上下文
 
     context = "\n\n".join(
-        documents
-    )
+    doc["content"] for doc in documents
+)
 
 
     # 3. 构造增强Prompt

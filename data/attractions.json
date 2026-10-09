@@ -1,0 +1,53 @@
+
+[
+  {
+    "id": 1,
+    "name": "米兰大教堂",
+    "name_en": "Duomo di Milano",
+    "latitude": 45.464121,
+    "longitude": 9.191872,
+    "category": "历史建筑",
+    "visit_duration": 90,
+    "description": "米兰标志性的哥特式大教堂，拥有精美的建筑雕刻和屋顶观景区域。"
+  },
+  {
+    "id": 2,
+    "name": "埃马努埃莱二世长廊",
+    "name_en": "Galleria Vittorio Emanuele II",
+    "latitude": 45.46564,
+    "longitude": 9.19001,
+    "category": "历史建筑",
+    "visit_duration": 30,
+    "description": "米兰著名的十九世纪拱廊建筑，拥有玻璃穹顶、商店和咖啡馆。"
+  },
+  {
+    "id": 3,
+    "name": "斯福尔扎城堡",
+    "name_en": "Castello Sforzesco",
+    "latitude": 45.4706,
+    "longitude": 9.1797,
+    "category": "历史建筑",
+    "visit_duration": 90,
+    "description": "米兰历史悠久的城堡，内部设有多座博物馆和艺术收藏展区。"
+  },
+  {
+    "id": 4,
+    "name": "布雷拉美术馆",
+    "name_en": "Pinacoteca di Brera",
+    "latitude": 45.47224,
+    "longitude": 9.18841,
+    "category": "艺术博物馆",
+    "visit_duration": 120,
+    "description": "米兰重要的艺术博物馆，收藏大量意大利绘画作品。"
+  },
+  {
+    "id": 5,
+    "name": "斯卡拉歌剧院",
+    "name_en": "Teatro alla Scala",
+    "latitude": 45.46756,
+    "longitude": 9.189398,
+    "category": "文化艺术",
+    "visit_duration": 60,
+    "description": "世界著名的歌剧院之一，具有悠久的歌剧和芭蕾舞演出历史。"
+  }
+]

@@ -1,5 +1,5 @@
 import chromadb
-from embedding import create_embedding
+from backend.embedding import create_embedding
 
 
 
